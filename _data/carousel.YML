@@ -1,5 +1,5 @@
-images: 
-  - imagefile: /Images/image1.jpg
-  - imagefile: /Images/image2.jpg
-  - imagefile: /Images/image3.jpg
-  - imagefile: /Images/image4.jpg
+images:
+  - image: "/Images/Obama.jpg"
+  - image: "/Images/Steveo.jpg"
+  - image: "/Images/Tounge.jpg"
+  - image: "/Images/Valdes.jpg"
