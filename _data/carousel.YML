@@ -1,5 +1,5 @@
 images: 
-  - image: /images/Obama.jpg
-  - image: /images/Steve.jpg
-  - image: /images/Tounge.jpg
-  - image: /images/Valdes.jpg
+  - image: "/images/Obama.jpg"
+  - image: "/images/Steve.jpg"
+  - image: "/images/Tounge.jpg"
+  - image: "/images/Valdes.jpg"
