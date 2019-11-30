@@ -25,7 +25,7 @@
       <h1 class="project-name">Luke-alike</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-      <form method="POST">
+      <form method="POST"nenctype="multipart/form-data" action="uploader.php">
       <div class="upload-btn-wrapper">
       <button class="btn">Upload a Luke-alike</button>
       <input type="file" name="mylukealike" />
