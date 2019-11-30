@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Top LukeALikes
 
-![Image of valdes](https://joner125.github.io/LukeALike/_80147706_valdes_united.jpg)
-![Image of barack](https://joner125.github.io/LukeALike/overview-Barack-Obama.jpg)
-![Image of cowman](https://joner125.github.io/LukeALike/mantoungecow.jpg)
-![Image of barack](https://joner125.github.io/LukeALike/Steve-O_by_Gage_Skidmore.jpg)
+![Image of valdes](https://joner125.github.io/LukeALike/Images/Valdes.jpg)
+![Image of barack](https://joner125.github.io/LukeALike/Images/Obama.jpg)
+![Image of cowman](https://joner125.github.io/LukeALike/Images/Tounge.jpg)
+![Image of barack](https://joner125.github.io/LukeALike/Images/Steve.jpg)
 
 ### Markdown
 
