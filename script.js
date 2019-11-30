@@ -1,5 +1,5 @@
 $(document).ready(function(){
   $('.your-class').slick({
-    settingname: setting-value
-  })
+    setting-name: setting-value
+  });
 });
