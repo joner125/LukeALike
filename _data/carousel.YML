@@ -1,5 +1,5 @@
 images: 
-  - image: /Images/image1.jpg
-  - image: /Images/image2.jpg
-  - image: /Images/image3.jpg
-  - image: /Images/image4.jpg
+  - imagefile: /Images/image1.jpg
+  - imagefile: /Images/image2.jpg
+  - imagefile: /Images/image3.jpg
+  - imagefile: /Images/image4.jpg
