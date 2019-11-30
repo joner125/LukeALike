@@ -2,8 +2,3 @@
 If you want to see people that look like luke this is the place to be! Well done you.
 
 ### Top Luke-alikes
-
-![Image of valdes](https://joner125.github.io/LukeALike/Images/Valdes.jpg)
-![Image of barack](https://joner125.github.io/LukeALike/Images/Obama.jpg)
-![Image of cowman](https://joner125.github.io/LukeALike/Images/Tounge.jpg)
-![Image of barack](https://joner125.github.io/LukeALike/Images/Steve.jpg)
