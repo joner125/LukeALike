@@ -1,5 +1,5 @@
 images: 
-  - image: https://joner125.github.io/LukeALike/Images/Valdes.jpg
-  - image: https://joner125.github.io/LukeALike/Images/Obama.jpg
-  - image: https://joner125.github.io/LukeALike/Images/Tounge.jpg
-  - image: https://joner125.github.io/LukeALike/Images/Steve.jpg
+  - image: /uploads/slider/image1.jpg
+  - image: /uploads/slider/image2.jpg
+  - image: /uploads/slider/image3.jpg
+  - image: /uploads/slider/image4.jpg
