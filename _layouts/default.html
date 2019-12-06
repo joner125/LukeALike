@@ -25,13 +25,10 @@
       <h1 class="project-name">Luke-alike</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-      <form method="POST"nenctype="multipart/form-data" action="uploadfile.php">
       <div class="upload-btn-wrapper">
       <button class="btn">Choose Image</button>
       <input type="file" name="mylukealike" />
       </div>
-      <input type="submit" value='Upload Luke-alike'/>
-      </form>
       {% endif %}
     </header>
     <main id="content" class="main-content" role="main">
